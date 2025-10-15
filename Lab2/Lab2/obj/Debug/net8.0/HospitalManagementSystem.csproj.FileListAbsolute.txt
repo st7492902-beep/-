@@ -1,0 +1,14 @@
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\bin\Debug\net8.0\HospitalManagementSystem.exe
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\bin\Debug\net8.0\HospitalManagementSystem.deps.json
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\bin\Debug\net8.0\HospitalManagementSystem.runtimeconfig.json
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\bin\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\bin\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\HospitalManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\HospitalManagementSystem.AssemblyInfo.cs
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\HospitalManagementSystem.dll
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\refint\HospitalManagementSystem.dll
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\HospitalManagementSystem.pdb
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\HospitalManagementSystem.genruntimeconfig.cache
+C:\Users\Sidor\OneDrive\Рабочий стол\ооп c#\lab2\Lab2\Lab2\obj\Debug\net8.0\ref\HospitalManagementSystem.dll
